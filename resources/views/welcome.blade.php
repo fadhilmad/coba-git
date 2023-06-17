@@ -296,7 +296,6 @@
             <div class="container">
                 <div class="row">
 
-<<<<<<< HEAD
                     <div class="sec-title text-center wow animated fadeInDown">
                         <h2>Project fitur</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
@@ -307,8 +306,6 @@
                             unde inventore accusantium? Labore?</p>
                     </div>
 
-=======
->>>>>>> frontend
 
                     <ul class="project-wrapper wow animated fadeInUp">
                         <li class="portfolio-item">
