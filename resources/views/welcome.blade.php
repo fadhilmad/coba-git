@@ -115,7 +115,7 @@
 
                         <div class="slide-caption">
                             <div class="caption-content">
-                                <h2 class="animated fadeInDown">BLUE Onepage HTML5 Template</h2>
+                                <h2 class="animated fadeInDown">SENTANA TEKNOLOGI</h2>
                                 <span class="animated fadeInDown">Clean and Professional one page Template</span>
                                 <a href="#" class="btn btn-blue btn-effect">Join US</a>
                             </div>
@@ -129,7 +129,7 @@
                         <div class="bg-img bg-img-2"></div>
                         <div class="slide-caption">
                             <div class="caption-content">
-                                <h2>BLUE Onepage HTML5 Template</h2>
+                                <h2>SENTANA TEKNOLOGI</h2>
                                 <span>Clean and Professional one page Template</span>
                                 <a href="#" class="btn btn-blue btn-effect">Join US</a>
                             </div>
@@ -143,7 +143,7 @@
                         <div class="bg-img bg-img-3"></div>
                         <div class="slide-caption">
                             <div class="caption-content">
-                                <h2>BLUE Onepage HTML5 Template</h2>
+                                <h2>SENTANA TEKNOLOGI</h2>
                                 <span>Clean and Professional one page Template</span>
                                 <a href="#" class="btn btn-blue btn-effect">Join US</a>
                             </div>
@@ -198,20 +198,7 @@
                                         in some form, by injected humour, or randomised words which don't look even
                                         slightly believable.</p>
                                 </div>
-                                <div class="work-item">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. <br><br> There are many variations
-                                        of passages of Lorem Ipsum available, but the majority have suffered alteration
-                                        in some form, by injected humour, or randomised words which don't look even
-                                        slightly believable.</p>
-                                </div>
-                                <div class="work-item">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. <br><br> There are many variations
-                                        of passages of Lorem Ipsum available, but the majority have suffered alteration
-                                        in some form, by injected humour, or randomised words which don't look even
-                                        slightly believable.</p>
-                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -308,10 +295,32 @@
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit similique id expedita aliquam
                             animi eveniet error dolore, libero rem nobis ipsa. Maiores temporibus eum cupiditate tempore
                             unde inventore accusantium? Labore?</p>
-
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit similique id expedita aliquam
                             animi eveniet error dolore, libero rem nobis ipsa. Maiores temporibus eum cupiditate tempore
                             unde inventore accusantium? Labore?</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit similique id expedita aliquam
+                            animi eveniet error dolore, libero rem nobis ipsa. Maiores temporibus eum cupiditate tempore
+                            unde inventore accusantium? Labore?</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit similique id expedita aliquam
+                            animi eveniet error dolore, libero rem nobis ipsa. Maiores temporibus eum cupiditate tempore
+                            unde inventore accusantium? Labore?</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit similique id expedita aliquam
+                            animi eveniet error dolore, libero rem nobis ipsa. Maiores temporibus eum cupiditate tempore
+                            unde inventore accusantium? Labore?</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit similique id expedita aliquam
+                            animi eveniet error dolore, libero rem nobis ipsa. Maiores temporibus eum cupiditate tempore
+                            unde inventore accusantium? Labore?</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit similique id expedita aliquam
+                            animi eveniet error dolore, libero rem nobis ipsa. Maiores temporibus eum cupiditate tempore
+                            unde inventore accusantium? Labore?</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit similique id expedita aliquam
+                            animi eveniet error dolore, libero rem nobis ipsa. Maiores temporibus eum cupiditate tempore
+                            unde inventore accusantium? Labore?</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit similique id expedita aliquam
+                            animi eveniet error dolore, libero rem nobis ipsa. Maiores temporibus eum cupiditate tempore
+                            unde inventore accusantium? Labore?</p>
+
+
                     </div>
 
 
